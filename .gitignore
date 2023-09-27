@@ -129,3 +129,5 @@ fabric.properties
 .history
 
 # End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
+
+training.1600000.processed.noemoticon.csv
